@@ -1,7 +1,7 @@
 # Meteorite Drift Bottle
 <div align="center">
 <img src="./Logo.jpg" alt="MateoriteBottle Logo" width="200"/>
-<div>
+</div>
   
 <p align="center">
   <strong>A Gamified Social Platform for Anonymous Interstellar Connections</strong>
